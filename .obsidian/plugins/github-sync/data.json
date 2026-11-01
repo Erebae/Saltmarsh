@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/Erebae/Saltmarsh.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}

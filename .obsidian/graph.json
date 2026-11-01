@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Lieux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16120065
+      }
+    },
+    {
+      "query": "tag:#PJ  ",
+      "color": {
+        "a": 1,
+        "rgb": 6011201
+      }
+    },
+    {
+      "query": "tag:#PNJ  ",
+      "color": {
+        "a": 1,
+        "rgb": 14882326
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.476986098068651,
+  "close": true
+}
